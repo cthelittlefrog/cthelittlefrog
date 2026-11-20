@@ -1,6 +1,6 @@
 # About me
 
-- 🔭 I’m currently working on a degree in Web Design and Development 
-- 🌱 I’m currently learning how to use Github
-- I am doing the AI for Web Developers certificate course by Scrimba
+- 🔭 Bachelors Degree in Web Design and Development 
+- 🌱 I have been learning to work with AI in app creation.
+- I just learned how to integrate AI into web applications. Lots of fun!
 
